@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdfg
 =======
 serftg
 >>>>>>> first
+=======
+>>>>>>> parent of 0d9d0b8 (commit 6)
