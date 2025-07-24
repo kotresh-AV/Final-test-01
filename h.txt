@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wer
+=======
+qwerty
+>>>>>>> first
